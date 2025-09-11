@@ -3,16 +3,9 @@
   <a href="https://github.com/rinoodev"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Web%20|%20React%20|%20Flask;Still%20Learning%20And%20Exploring&center=true&width=500&height=50"></a>
 </p>
 
-<p>Welcome to my page! </br> I'm Rino, Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197602.png" width="13"/> <b>Indonesia</b>, currently learning and growing in the field of web development.</p>
+<p>Welcome to my page! </br> I'm Rino, Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197602.png" width="13"/> <b>Indonesia</b>, currently learning and growing in the field of web development.</p> 
 
-
-- 🌱 I’m currently learning Full Stack Development   
-- 💬 Ask me about Web Development  
-- 📫 How to reach me: Send me messages on Instagram 
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: No Fun Fact about me :D  
-
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Things I code with
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
