@@ -43,9 +43,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rinoodev&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
   
-<h3 align="center">🤝🏻 &nbsp;Connect with Me</h3>
+### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="mailto:satyaari647@gmail.com"><img src="https://img.shields.io/badge/-satyaari647@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/rnowjyo_/"><img src="https://img.shields.io/badge/-@rnowjyo__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
