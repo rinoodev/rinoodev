@@ -1,6 +1,6 @@
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/rinoodev"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Software+Developer;Junior+Cross+Platform+Developer;Web%20|%20React%20|%20Flask;Still%20Learning%20And%20Exploring&center=true&width=500&height=50"></a>
+  <a href="https://github.com/rinoodev"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Web%20|%20React%20|%20Flask;Still%20Learning%20And%20Exploring&center=true&width=500&height=50"></a>
 </p>
 
 - 🌱 I’m currently learning Full Stack Development   
