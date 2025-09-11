@@ -38,7 +38,7 @@
   <br/>
 
   
-### 🤝🏻 &nbsp;Connect with Me
+<h3 align="center">🤝🏻 &nbsp;Connect with Me</h3>
 
 <p align="center">
 <a href="mailto:satyaari647@gmail.com"><img src="https://img.shields.io/badge/-satyaari647@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
