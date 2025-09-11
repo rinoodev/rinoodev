@@ -32,8 +32,8 @@
 </a>
 </p>
 
-###⚡ &nbsp;Recent GitHub Activity
-  <br/>
+### ⚡ &nbsp;Recent GitHub Activity
+
    <a href="https://github.com/rinoodev"><img alt="Rino's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rinoodev&custom_title=Rino's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
