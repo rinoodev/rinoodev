@@ -27,7 +27,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/rinoodev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rinoodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rinoodev&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -36,9 +36,8 @@
 
 ### ⚡ &nbsp;Recent GitHub Activity
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rinoodev&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://vercel-time-widget.vercel.app/api?timezone=Asia/Jakarta&format=HH:mm:ss&bg=000000&color=ffffff" alt="Waktu Jakarta">
 </p>
   
 <h3 align="center">🤝🏻 &nbsp;Connect with Me</h3>
