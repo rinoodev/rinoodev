@@ -36,8 +36,10 @@
 
 ### ⚡ &nbsp;Recent GitHub Activity
 
-   <a href="https://github.com/rinoodev"><img alt="Rino's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rinoodev&custom_title=Rino's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rinoodev&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 
   
 <h3 align="center">🤝🏻 &nbsp;Connect with Me</h3>
