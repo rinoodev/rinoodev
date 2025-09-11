@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rinoodev&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinoodev&layout=compact&theme=tokyonight" alt="Top Languages Rino"/>
+  <img src="https://time-zoned.vercel.app/api/time?location=Asia/Jakarta&format=HH:mm:ss&color=white&background=1f1f1f" alt="Waktu Indonesia Barat">
 </p>
   
 <h3 align="center">🤝🏻 &nbsp;Connect with Me</h3>
