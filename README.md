@@ -5,7 +5,8 @@
 
 ### 🙌 &nbsp;Introduction
 
-<p>Welcome to my page! </br> I'm Rino, Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197602.png" width="13"/> <b>Indonesia</b>, currently learning and growing in the field of web development.</p> 
+<p>Welcome to my page! </br> I'm Rino, Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/>
+ <b>Indonesia</b>, currently learning and growing in the field of web development.</p> 
 
 ### 🛠 &nbsp;Tech Stack
 
