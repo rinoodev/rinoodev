@@ -1,7 +1,10 @@
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/rinoodev"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Web%20|%20React%20|%20Flask;Still%20Learning%20And%20Exploring&center=true&width=500&height=50"></a>
+  <a href="https://github.com/rinoodev"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Web%20|%20React%20|%20Flask;Still%20Learning%20And%20Exploring&center=true&width=500&height=50"></a>
 </p>
+
+<p>Welcome to my page! </br> I'm Rino, Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197602.png" width="13"/> <b>Indonesia</b>, currently learning and growing in the field of web development.</p>
+
 
 - 🌱 I’m currently learning Full Stack Development   
 - 💬 Ask me about Web Development  
