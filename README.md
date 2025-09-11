@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rinoodev&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://time-zoned.vercel.app/api/time?location=Asia/Jakarta&format=HH:mm:ss&color=white&background=1f1f1f" alt="Waktu Indonesia Barat">
+  <img src="https://vercel-time-widget.vercel.app/api?timezone=Asia/Jakarta&format=HH:mm:ss&bg=000000&color=ffffff" alt="Waktu Jakarta">
 </p>
   
 <h3 align="center">🤝🏻 &nbsp;Connect with Me</h3>
