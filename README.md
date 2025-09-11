@@ -5,7 +5,7 @@
 
 <p>Welcome to my page! </br> I'm Rino, Fullstack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197602.png" width="13"/> <b>Indonesia</b>, currently learning and growing in the field of web development.</p> 
 
-### 🛠 &nbsp;Things I code with
+### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
