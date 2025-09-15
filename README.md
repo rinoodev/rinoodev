@@ -29,6 +29,11 @@
 ![Spotify](https://img.shields.io/badge/Spotify-%23000000.svg?style=flat&logo=spotify&logoColor=white)&nbsp;
 ![YouTube Music](https://img.shields.io/badge/YouTube%20Music-%23000000.svg?style=flat&logo=youtube-music&logoColor=red)
 
+
+
+![Blade](https://img.shields.io/badge/-Blade-05122A?style=flat&logo=laravel&logoColor=F9322C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
