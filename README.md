@@ -18,6 +18,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=Sass&logoColor=CC6699)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -28,11 +29,6 @@
 
 ![Spotify](https://img.shields.io/badge/Spotify-%23000000.svg?style=flat&logo=spotify&logoColor=white)&nbsp;
 ![YouTube Music](https://img.shields.io/badge/YouTube%20Music-%23000000.svg?style=flat&logo=youtube-music&logoColor=red)
-
-
-
-![Blade](https://img.shields.io/badge/-Blade-05122A?style=flat&logo=laravel&logoColor=F9322C)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
