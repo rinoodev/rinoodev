@@ -11,32 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=rinoodev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rinoodev?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
 </div>
-
----
-
-## 🙌 About Me
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-```typescript
-const rino = {
-    name: "Rino",
-    location: "Indonesia 🇮🇩",
-    role: "Fullstack Developer",
-    languages: ["JavaScript", "TypeScript", "PHP", "Python"],
-    frameworks: ["React", "Laravel", "Flask"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
-- 🔭 I'm currently working on **exciting web projects**
-- 🌱 I'm currently learning **advanced React patterns & microservices**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Laravel, Flask, or anything web development**
-- 📫 How to reach me: **rnowjyo@gmail.com**
-- ⚡ Fun fact: **I love turning coffee into code ☕**
-
 ---
 
 ## 🛠️ Tech Stack & Tools
