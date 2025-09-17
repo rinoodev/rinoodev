@@ -1,8 +1,11 @@
-# <div align="center">Hello Everyone! <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></div>
+<h1 align="center">Hello Everyone! <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/rinoodev"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Web%20|%20React%20|%20Flask;Still%20Learning%20And%20Exploring&center=true&width=500&height=50"></a>
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Fullstack+Developer+%F0%9F%9A%80;Web+%7C+React+%7C+Flask+Expert;Always+Learning+%26+Exploring+%F0%9F%8C%9F;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
+### 🙌 &nbsp;Introduction
+
+<p>Welcome to my page! </br> I'm Rino, Fullstack Developer from 🇮🇩 <b>Indonesia</b>, currently learning and growing in the field of web development.</p> 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rinoodev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
