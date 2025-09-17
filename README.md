@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/github/followers/rinoodev?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
 </div>
 
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -49,8 +47,6 @@
 
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <p align="left">
@@ -64,34 +60,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rinoodev&bg_color=1a1b27&color=628fdb&line=628fdb&point=19f4d6&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rinoodev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rinoodev&repo=repo-name-1&theme=tokyonight&hide_border=true)](https://github.com/rinoodev/repo-name-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rinoodev&repo=repo-name-2&theme=tokyonight&hide_border=true)](https://github.com/rinoodev/repo-name-2)
-
-</div>
-
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rinoodev/rinoodev/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
@@ -99,8 +72,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rnowjyo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rnowjyo_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://websiteportfolioofficial.netlify.app/)
 
 </div>
 
