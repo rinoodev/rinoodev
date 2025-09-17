@@ -63,7 +63,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=rinoodev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rinoodev&theme=tokyonight&no-frame=true&row=1&column=5" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Let's Connect!
