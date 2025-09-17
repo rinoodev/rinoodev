@@ -42,7 +42,7 @@
 ### ⚡ &nbsp;Recent GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rinoodev&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=rinoodev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
   
 ### 🤝🏻 &nbsp;Connect with Me
