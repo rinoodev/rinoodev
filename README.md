@@ -7,14 +7,14 @@
 
 <p>Welcome to my page! </br> I'm Rino, Fullstack Developer from 🇮🇩 <b>Indonesia</b>, currently learning and growing in the field of web development.</p> 
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=rinoodev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rinoodev?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
 </div>
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="left">
 
 ### 🚀 Languages
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -56,23 +56,22 @@
 </a>
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rinoodev&bg_color=1a1b27&color=628fdb&line=628fdb&point=19f4d6&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=rinoodev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Let's Connect!
 
-<div align="center">
+<div align="left">
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rnowjyo@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rnowjyo_/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=todoist&logoColor=white)](https://websiteportfolioofficial.netlify.app/)
-
 
 </div>
