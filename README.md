@@ -42,7 +42,7 @@
 ### ⚡ &nbsp;Recent GitHub Activity
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=rinoodev&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=rinoodev&theme=default"/>
 </p>
   
 ### 🤝🏻 &nbsp;Connect with Me
