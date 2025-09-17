@@ -76,15 +76,3 @@
 
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" />
-  
-  ### Show some ❤️ by starring some of the repositories!
-  
-  ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-  ![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge)
-  
-</div>
