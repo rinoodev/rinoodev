@@ -62,12 +62,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rinoodev&bg_color=1a1b27&color=628fdb&line=628fdb&point=19f4d6&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=rinoodev&theme=tokyonight&no-frame=true&row=1&column=5" alt="GitHub Trophies" />
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="left">
